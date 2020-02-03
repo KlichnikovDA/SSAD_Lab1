@@ -1,0 +1,8 @@
+E:\Вышка\ПАПС\Lab1\Lab1\bin\Debug\Lab1.exe.config
+H:\Вышка\ПАПС\Lab1\Lab1\bin\Debug\Lab1.exe.config
+H:\Вышка\ПАПС\Lab1\Lab1\bin\Debug\Lab1.exe
+H:\Вышка\ПАПС\Lab1\Lab1\bin\Debug\Lab1.pdb
+H:\Вышка\ПАПС\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+H:\Вышка\ПАПС\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+H:\Вышка\ПАПС\Lab1\Lab1\obj\Debug\Lab1.exe
+H:\Вышка\ПАПС\Lab1\Lab1\obj\Debug\Lab1.pdb
