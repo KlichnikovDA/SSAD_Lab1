@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
+    // Одиночка
     class SingletonSensor
     {
         // Экземпляр класса

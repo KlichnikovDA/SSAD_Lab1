@@ -13,9 +13,12 @@ namespace Lab1
             // демонстрация работы паттерна Singleton
             SingletonSensor ExampleSensor = SingletonSensor.GetInstance(0, 1);
             Console.WriteLine("Датчик {0} в {1}", ExampleSensor.GetSensorType, ExampleSensor.GetRoom);
-            // у нас не получится изменить дом, так как объект уже создан 
+            // у нас не получится изменить объект, так как объект уже создан 
             ExampleSensor = SingletonSensor.GetInstance(2, 3);
             Console.WriteLine("Датчик {0} в {1}", ExampleSensor.GetSensorType, ExampleSensor.GetRoom);
+            // Равно как и создать второй экземпляр
+            SingletonSensor ExampleSensor2 = SingletonSensor.GetInstance(1, 2);
+            Console.WriteLine("Датчик {0} в {1}", ExampleSensor2.GetSensorType, ExampleSensor2.GetRoom);
             Console.ReadLine();
             Console.WriteLine();
 
