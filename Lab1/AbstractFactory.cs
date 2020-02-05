@@ -10,14 +10,13 @@ namespace Lab1
     public abstract class AbstractFactory
     {
         // Создание продукта
-        public abstract AbstractProduct CreateProduct();
+        public abstract AbstractProduct CreateSignal();
     }
 
     // Интерфейс продукта
     public abstract class AbstractProduct
     {
         // Метод продукта
-        public abstract void ProductAction();
+        public abstract void ReadValue();
     }
-
 }
